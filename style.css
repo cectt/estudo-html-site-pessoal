@@ -42,22 +42,33 @@ a {
 .post_content {
     margin: 0;
     margin-bottom: 15px;
-    text-transform: capitalize;
 }
 
 .post_image {
     margin-bottom: 15px;
 }
 
-.contacts_list {
+.contacts_list_no_order {
     list-style-type: none;
-    padding-left: 30px;
+    padding-left: 45px;
 }
 
-.contacts_list li a {
+.contacts_list_no_order li a {
     color: blue;
 }
 
-.lista_nao-ordenada {
+.no_order_list {
     padding-left: 15px;
+}
+
+.order_list {
+    padding-left: 15px;
+}
+
+.contacts_list_order {
+    padding-left: 60px;
+}
+
+.contacts_list_order li a {
+    color: blue;
 }
