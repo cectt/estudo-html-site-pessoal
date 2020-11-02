@@ -51,9 +51,13 @@ a {
 
 .contacts_list {
     list-style-type: none;
-    padding-left: 15px;
+    padding-left: 30px;
 }
 
 .contacts_list li a {
     color: blue;
+}
+
+.lista_nao-ordenada {
+    padding-left: 15px;
 }
